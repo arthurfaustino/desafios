@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.cabecalho {
+    margin-top: 30px;
+    margin-left: 37%;
+    margin-right: 25%;
+    margin-bottom: 10px;
+    padding: 0px;
+    background-color: rgb(177, 221, 223);
+}
+
+.linha {
+    margin: 0px;
+    margin-bottom: 5px;
+    border-top: solid black 2px;
+    padding: 0px;
+
+}
+
+.lista {
+    align-content: center;
+    margin-top: 15px;
+    margin-left:40%;
+    margin-right: 25%;
+    padding: 0px;
+    background-color: rgb(250, 233, 212);
+}
+
+.total {
+    margin-top: 0;
+    margin-left: 40%;
+    padding-top: 15px;
+    margin-right: 25%;
+    background-color: rgb(250, 233, 212);
+}
