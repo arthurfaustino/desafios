@@ -1,0 +1,15 @@
+.cabecalho {
+    margin-left: 230px;
+}
+
+.paragrafo-cinza {
+    margin: 40px;
+    padding: 20px;
+    background-color: #F5F5F5;
+}
+
+.paragrafo-colorido {
+    margin: 40px;
+    padding: 20px;
+    background-color: #F0CCE2;
+}
