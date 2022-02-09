@@ -1,0 +1,21 @@
+.tabela-moda {
+    margin: 20px;
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+}
+
+.tabela-casa {
+    margin: 20px;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
+
+
+.produto-moda, .produto-casa {
+    background-color: #424250;
+    color: white;
+}
